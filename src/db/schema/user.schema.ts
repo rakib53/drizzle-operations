@@ -10,4 +10,5 @@ export const usersTable = pgTable('users', {
   description1: varchar({ length: 255 }).notNull(),
   description2: varchar({ length: 255 }).notNull(),
   test1: varchar({ length: 255 }).notNull(),
+  newColumn: varchar({ length: 255 }).notNull(),
 });
