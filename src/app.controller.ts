@@ -18,6 +18,9 @@ export class AppController {
       name: 'Rakib',
       email: 'rakib@gmail.com',
       age: 24,
+      role: 'admin',
+      description: 'Some description',
+      description1: 'Some description1',
     });
     return result;
   }
