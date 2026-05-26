@@ -50,6 +50,13 @@
       "when": 1779819607629,
       "tag": "0006_mature_domino",
       "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1779820635190,
+      "tag": "0007_nebulous_guardsmen",
+      "breakpoints": true
     }
   ]
 }
