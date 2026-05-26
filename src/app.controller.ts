@@ -21,6 +21,9 @@ export class AppController {
       role: 'admin',
       description: 'Some description',
       description1: 'Some description1',
+      description2: 'Some description2',
+      test1: 'test1',
+      newColumn: 'newColumn',
     });
     return result;
   }
