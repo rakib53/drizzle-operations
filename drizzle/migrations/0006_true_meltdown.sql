@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "newColumn2" varchar(255) NOT NULL;
