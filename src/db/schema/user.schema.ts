@@ -8,4 +8,5 @@ export const usersTable = pgTable('users', {
   role: varchar({ length: 255 }).notNull().$type<'admin'>(),
   description: varchar({ length: 255 }).notNull(),
   description1: varchar({ length: 255 }).notNull(),
+  description2: varchar({ length: 255 }).notNull(),
 });
