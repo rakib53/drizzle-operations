@@ -1,5 +1,6 @@
 {
   "id": "215f5e4a-0e36-43e5-af6f-1633ee0bb3ee",
+  "id": "366941e9-a0f6-4d8b-b0e7-38dbc30bf4ee",
   "prevId": "5ce09409-ec7d-496f-99cb-04700a98c396",
   "version": "7",
   "dialect": "postgresql",
@@ -75,6 +76,8 @@
         },
         "newColumn2": {
           "name": "newColumn2",
+        "newColumn": {
+          "name": "newColumn",
           "type": "varchar(255)",
           "primaryKey": false,
           "notNull": true
